@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	    <script type="text/javascript" src="valid.js"></script>
+</head>
+<body>
+<form action="http://localhost:3000/" method="POST">
+	<label>FilePath : </label><br/>
+ <p>Upload the Json File : <input type="text" name="path" placeholder="Enter json file path" required>
+	<label>No of teams:</label><br/>
+	<input type="number" name="teamsize" oninput="validity.valid||(value='');"  required><br/>
+	<input type="submit"  onclick="return ValidateExtension()"  name="submit" value="ClickMe">
+</form>
+</body>
+</html>

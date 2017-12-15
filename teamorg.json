@@ -1,0 +1,267 @@
+{
+
+
+
+"aspirant1":{
+
+
+
+	 "name":"anurag",
+
+
+
+                   "branch":"cse",
+
+
+
+                   "favlang":"java"
+
+
+
+	},
+
+
+
+"aspirant2":{
+
+
+
+	"name":"reddy",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":"php"
+
+
+
+	},
+
+
+
+"aspirant3":{
+
+
+
+	"name":"Ganesh Srv",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":"C"
+
+
+
+	},
+
+
+
+"aspirant4":{
+
+
+
+	"name":"Sriman",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":"java"
+
+
+
+	},
+
+
+
+"aspirant5":{
+
+
+
+	"name":"miller",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":"java"
+
+
+
+	},
+
+	"aspirant6":{
+
+
+
+	"name":"akhil",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":"java"
+
+
+
+	},
+
+	"aspirant7":{
+
+
+
+	"name":"anu",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":"Python"
+
+
+
+	},
+
+	"aspirant8":{
+
+
+
+	"name":"pavithra",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":"Python"
+
+
+
+	},
+
+	"aspirant9":{
+
+
+
+	"name":"ashish",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":"Python"
+
+
+
+	},
+
+	"aspirant10":{
+
+
+
+	"name":"akhil",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":"C++"
+
+
+
+	},
+
+	"aspirant11":{
+
+
+
+	"name":"sow",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":"java"
+
+
+
+	},
+
+	"aspirant12":{
+
+
+
+	"name":"sra1",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":"C"
+
+
+
+	},
+
+	"aspirant13":{
+
+
+
+	"name":"mani",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":".Net"
+
+
+
+	},
+
+	"aspirant14":{
+
+
+
+	"name":"ishu",
+
+
+
+                  "branch":"cse",
+
+
+
+                  "favlang":"Perl"
+
+
+
+	}
+
+
+
+}
